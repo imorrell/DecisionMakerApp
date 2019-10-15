@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.exe
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.deps.json
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.dll
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\bin\Debug\netcoreapp3.0\DecisionMakerApp.pdb
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\obj\Debug\netcoreapp3.0\DecisionMakerApp.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\obj\Debug\netcoreapp3.0\DecisionMakerApp.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\obj\Debug\netcoreapp3.0\DecisionMakerApp.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\obj\Debug\netcoreapp3.0\DecisionMakerApp.dll
+C:\Users\Prophesy\Documents\C#2019\DecisionMakerApp\DecisionMakerApp\obj\Debug\netcoreapp3.0\DecisionMakerApp.pdb
